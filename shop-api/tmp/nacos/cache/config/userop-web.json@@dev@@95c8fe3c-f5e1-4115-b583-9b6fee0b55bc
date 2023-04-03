@@ -1,0 +1,19 @@
+{
+  "host": "127.0.0.1",
+  "name": "userop-web",
+  "port": 8027,
+  "tags":["shop" , "paidx0", "userop", "web"],
+  "goods_srv": {
+    "name": "goods-srv"
+  },
+  "userop_srv": {
+    "name": "userop-srv"
+  },
+  "jwt": {
+    "key": "5$!UEmvB#nRB@Iwab#Sy!zofKEOGLRtE"
+  },
+  "consul": {
+    "host": "127.0.0.1",
+    "port": 8500
+  }
+}
