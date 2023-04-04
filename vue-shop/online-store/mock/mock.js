@@ -465,7 +465,7 @@ Mock.mock('/order/receiveInfo',  //获取订单收货人信息
 })
 Mock.mock('/order/updateReceiveInfo',  //更新收货人信息
 {
-    
+
 })
 Mock.mock('/message/getAll',  //删除留言
     [
@@ -487,15 +487,15 @@ Mock.mock('/message/getAll',  //删除留言
 
 Mock.mock('/message/deleteMessage',  //删除留言
 {
-    
+
 })
 Mock.mock('/message/downloadMessage',  //下载上传的文件
 {
-    
+
 })
 Mock.mock('/message/addMessage',  //添加留言
 {
-    
+
 })
 Mock.mock('/address',  //获得所有配送地址
 [
@@ -503,14 +503,14 @@ Mock.mock('/address',  //获得所有配送地址
         id: '222',
         addr: '成都高新区',
         tel: 18311220453,
-        name: 'bobby',
+        name: 'paidx0',
         note: '发顺丰'
     },
     {
         id: '333',
         addr: '成都高新区某小区',
         tel: 18311220453,
-        name: 'bobby',
+        name: 'paidx0',
         note: '发顺丰'
     }
 ])

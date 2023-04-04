@@ -135,7 +135,7 @@
             getOrderInfo () { //获取订单信息
               getOrderDetail(this.orderId).then((response)=> {
                     this.orderInfo = response.data;
-                    console.log("bobby")
+                    console.log("paidx0")
                     console.log(this.orderInfo)
                   console.log(this.orderInfo.goods[0].price)
                     var totalPrice = 0

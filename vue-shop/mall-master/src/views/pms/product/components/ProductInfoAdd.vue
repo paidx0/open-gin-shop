@@ -245,10 +245,10 @@
         })
         this.$forceUpdate()
         // this.front_image = this.value.front_image
-          console.log("bobby1")
+          console.log("paidx01")
           console.log(this.value.front_image)
           console.log(this.value.front_image[0])
-          console.log("bobby2")
+          console.log("paidx02")
           this.value.front_image = this.value.front_image[0]
 
       },
