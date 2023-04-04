@@ -125,7 +125,8 @@ docker run -d --name prometheus-node1  -p 9090:9090  bitnami/prometheus:latest
 
 3、拿出来作为学习项目还需要打磨，先把所学先应用到实践，再学着去优化，接口上细思是有不足的 [滑稽😝]
 
-4、使用到的技术栈：gin、gorm、Redis、MySQL、grpc、protobuf、Consul、Nacos、Rocketmq、elasticsearch、jaeger、Prometheus、sentinel
+4、使用到的技术栈：gin、gorm、Redis、MySQL、grpc、protobuf、Consul、Nacos、Rocketmq、elasticsearch、
+                jaeger、Prometheus、sentinel
 ~~~
 
 ### goods-商品
