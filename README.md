@@ -111,6 +111,13 @@ docker run -d --name prometheus-node1  -p 9090:9090  bitnami/prometheus:latest
     - [x] 添加留言
     - [x] 收藏列表
     - [x] 收藏增删改查
+- 其他维护相关
+    - [x] consul 服务注册发现、负载均衡
+    - [x] nacos 配置中心，全局的配置更新和管理
+    - [x] elasticsearch 全文索引，字段检索
+    - [x] jaeger 链路追踪，记录执行时间线，帮助了解性能瓶颈
+    - [x] Prometheus 监控分析，处理和响应请求的能力，每秒QPS
+    - [x] sentinel 限流熔断
 
 # 整体鸟撖图
 
